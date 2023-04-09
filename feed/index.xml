@@ -9,21 +9,21 @@
 
 <channel>
 	<title>SK Trading Corporation</title>
-	<atom:link href="http://localhost/wordpress/feed/?simply_static_page=12571" rel="self" type="application/rss+xml" />
-	<link>https://tirpals.com</link>
-	<description>Tarpaulins</description>
+	<atom:link href="http://localhost/wordpress/feed/?simply_static_page=23490" rel="self" type="application/rss+xml" />
+	<link>https://tirpals.com/</link>
+	<description>Buy Waterproof Tirpal/Tarps/Tarpaulin Online</description>
 	<lastBuildDate>Fri, 24 Mar 2023 10:58:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://tirpals.com/wp-content/uploads/2023/03/logo.jpg</url>
 	<title>SK Trading Corporation</title>
-	<link>https://tirpals.com</link>
+	<link>https://tirpals.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -37,9 +37,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://tirpals.com/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://tirpals.com/2023/03/24/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://tirpals.com">SK Trading Corporation</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://tirpals.com/2023/03/24/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://tirpals.com">SK Trading Corporation</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://tirpals.com/2023/03/24/hello-world/feed/</wfw:commentRss>
